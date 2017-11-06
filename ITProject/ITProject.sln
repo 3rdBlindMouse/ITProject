@@ -5,7 +5,7 @@ VisualStudioVersion = 15.0.27004.2006
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WhatWillBecomeAWindowsApp", "WhatWillBecomeAWindowsApp\WhatWillBecomeAWindowsApp.csproj", "{4D76A86A-5DA3-4832-81D6-638DC744B554}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RoundRobinConsoleApp", "..\..\..\..\Documents\Visual Studio 2017\Projects\TestingRoundRobin\TestingRoundRobin\RoundRobinConsoleApp.csproj", "{027CAE90-4F48-428E-A925-242EF96B53C4}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RoundRobin", "RoundRobin\RoundRobin.csproj", "{C02581EC-A82B-4650-B25D-2EA1F13C712F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -17,10 +17,10 @@ Global
 		{4D76A86A-5DA3-4832-81D6-638DC744B554}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4D76A86A-5DA3-4832-81D6-638DC744B554}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4D76A86A-5DA3-4832-81D6-638DC744B554}.Release|Any CPU.Build.0 = Release|Any CPU
-		{027CAE90-4F48-428E-A925-242EF96B53C4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{027CAE90-4F48-428E-A925-242EF96B53C4}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{027CAE90-4F48-428E-A925-242EF96B53C4}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{027CAE90-4F48-428E-A925-242EF96B53C4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C02581EC-A82B-4650-B25D-2EA1F13C712F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C02581EC-A82B-4650-B25D-2EA1F13C712F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C02581EC-A82B-4650-B25D-2EA1F13C712F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C02581EC-A82B-4650-B25D-2EA1F13C712F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
